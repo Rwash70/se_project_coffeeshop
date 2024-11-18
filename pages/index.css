@@ -120,3 +120,8 @@
     display: flex;
     justify-content: space-between;
 }
+
+.recipes__iframe {
+    width: 560px;
+    height: 315px;
+}
