@@ -29,11 +29,13 @@
   background-color: #1878dc;
   color: #fff;
   cursor: pointer;
-  transition: background-color 0.5s;
+  opacity: 1;
+  transition: opacity 0.7;
 }
 
 .form__button:hover {
   background-color: #3f96f3;
+  transition: background-color 0.5s;
 }
 
 .form__checkbox {

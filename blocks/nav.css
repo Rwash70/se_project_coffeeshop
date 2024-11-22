@@ -22,7 +22,7 @@
 .nav__link {
   color: #000;
   text-decoration: none;
-  transition: opacity 0.5s;
+  transition: color #2f80ed;
   cursor: pointer;
 }
 
