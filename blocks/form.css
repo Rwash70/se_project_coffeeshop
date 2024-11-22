@@ -30,18 +30,19 @@
   color: #fff;
   cursor: pointer;
   opacity: 1;
-  transition: opacity 0.7;
+  transition: opacity 0.3s ease-in-out;
 }
 
 .form__button:hover {
   background-color: #3f96f3;
-  transition: background-color 0.5s;
+  opacity: 0.7;
 }
 
 .form__checkbox {
   border-radius: 2px;
   width: 20px;
   height: 20px;
+  background-color: #1878dc;
 }
 
 .form__label_type_checkbox {
