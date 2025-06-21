@@ -55,7 +55,7 @@ To run locally:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/triple-peaks-library.git
+git clone https://github.com/Rwash70/se_project_coffeeshop.git
 cd triple-peaks-library
 open index.html
 
