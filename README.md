@@ -46,8 +46,7 @@ Optional: Vanilla JavaScript (let me know if it's used)
 
 # Live Demo
 
-Coming soon on Netlify
-(Let me know the link once you deploy it and I’ll add it here.)
+(https://boisterous-beignet-77aac6.netlify.app)
 
 # Setup Instructions
 
